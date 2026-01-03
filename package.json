@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node my-devops-project/app.js",
+    "lint": "eslint .",
     "test": "jest"
   },
   "keywords": [],
