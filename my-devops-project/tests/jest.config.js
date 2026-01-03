@@ -2,6 +2,6 @@ module.exports = {
   testEnvironment: 'node',
   collectCoverage: true,
   coverageDirectory: 'coverage',
-  testMatch: ['**/my-devops-project/tests/**/*.test.js'],
+  testMatch: ['**/tests/**/*.test.js'],
   verbose: true
 };
