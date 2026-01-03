@@ -17,7 +17,4 @@ module.exports = [
       'no-unused-vars': ['error', { 'argsIgnorePattern': '^_' }],
     },
   },
-  {
-    ignores: ['node_modules/**', 'coverage/**'],
-  },
 ];
